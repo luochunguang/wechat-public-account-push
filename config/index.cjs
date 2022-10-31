@@ -19,7 +19,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '忆君',
+      name: '小宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'olwYF517vkI53i0OmhyHk2wANk4M',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -29,11 +29,11 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '忆君', year: '2000', date: '09-23',
+          type: '*生日', name: '小宝贝', year: '2000', date: '09-23',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '忆君', year: '2000', date: '10-20',
+          type: '生日', name: '小宝贝', year: '2000', date: '10-20',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '02-07',
@@ -49,7 +49,7 @@ const USER_CONFIG = {
     },
       {
       // 想要发送的人的名字
-      name: '忆君',
+      name: '小宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'olwYF5-0DOzf09ao5PhK_GNWpUg8',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -59,11 +59,11 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '忆君', year: '2000', date: '09-23',
+          type: '*生日', name: '小宝贝', year: '2000', date: '09-23',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '忆君', year: '2000', date: '10-20',
+          type: '生日', name: '小宝贝', year: '2000', date: '10-20',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '02-07',
